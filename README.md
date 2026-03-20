@@ -67,13 +67,8 @@ Para compilar este proyecto en el IDE de Arduino, asegúrate de tener instaladas
 
     Wire.h: Librería estándar para la comunicación I2C entre el ESP32 y el display.
 
-🤝 Agradecimientos / Credits
-
-Este proyecto no habría sido posible sin el increíble trabajo de la comunidad de código abierto. Un agradecimiento especial a:
-
-    Ricardo Quesada: Creador de la librería Bluepad32. Gracias por desarrollar el stack de Bluetooth que permite que mandos como el DualSense funcionen con tanta fluidez en el ESP32. Su trabajo es la base que permite que NEO BLUE cobre vida.
-
-    A todos los desarrolladores de la comunidad de retro-gaming y arcade modding que comparten sus conocimientos sobre los estándares JAMMA y MVS.
+### 🤝 Agradecimientos
+Este proyecto utiliza la excelente librería **[Bluepad32](https://github.com/ricardoquesada/bluepad32)** de **Ricardo Quesada**. Gracias a su trabajo en el stack de Bluetooth, es posible conectar mandos modernos a sistemas clásicos con una latencia mínima.
     
 📸 Galería del Proyecto
 
