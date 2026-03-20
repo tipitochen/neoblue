@@ -1,5 +1,5 @@
-NEO BLUE: Direct PS5 Controller Interface for Neo Geo MVS
-
+NEO BLUE : Direct PS5 Controller Interface for Neo Geo MVS
+Nikita edition
 NEO BLUE es un proyecto de hardware minimalista diseñado para habilitar el uso de mandos DualSense (PS5) en sistemas arcade SNK Neo Geo MVS.
 
 A diferencia de otras interfaces complejas, NEO BLUE aprovecha la tolerancia de voltaje de los módulos ESP32 modernos para realizar una conexión directa y eficiente entre el Bluetooth HID y el estándar JAMMA/MVS, reduciendo la cantidad de componentes necesarios y simplificando el montaje.
