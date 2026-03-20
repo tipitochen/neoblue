@@ -68,7 +68,7 @@ Para compilar este proyecto en el IDE de Arduino, asegúrate de tener instaladas
     Wire.h: Librería estándar para la comunicación I2C entre el ESP32 y el display.
 
 ### 🤝 Agradecimientos
-Este proyecto utiliza la excelente librería **[Bluepad32](https://github.com/ricardoquesada/bluepad32)** de **Ricardo Quesada**. Gracias a su trabajo en el stack de Bluetooth, es posible conectar mandos modernos a sistemas clásicos con una latencia mínima.
+Este proyecto utiliza la excelente librería **[Bluepad32](https://github.com/ricardoquesada/bluepad32)** de **Ricardo Quesada**. Gracias a su trabajo en el stack de Bluetooth, es posible conectar mandos modernos a sistemas clásicos.
     
 📸 Galería del Proyecto
 
