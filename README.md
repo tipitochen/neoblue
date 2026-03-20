@@ -84,6 +84,7 @@ Este proyecto utiliza la excelente librería **[Bluepad32](https://github.com/ri
 Si quieres ver el proyecto Neo Blue funcionando en una placa Neo Geo MVS real o necesitas una guía paso a paso sobre el montaje, visita mi canal de YouTube:
 
 👉 Canal Oficial: Tipitochen en YouTube
+[![Ver Video Neo Blue](https://img.youtube.com/vi/wPD0EBTdPX4/maxresdefault.jpg)](https://www.youtube.com/watch?v=wPD0EBTdPX4)
 
 y si señores ... tenia que ser .. Nikita! 
     
