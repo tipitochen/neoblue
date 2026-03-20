@@ -74,6 +74,11 @@ Este proyecto no habría sido posible sin el increíble trabajo de la comunidad 
     Ricardo Quesada: Creador de la librería Bluepad32. Gracias por desarrollar el stack de Bluetooth que permite que mandos como el DualSense funcionen con tanta fluidez en el ESP32. Su trabajo es la base que permite que NEO BLUE cobre vida.
 
     A todos los desarrolladores de la comunidad de retro-gaming y arcade modding que comparten sus conocimientos sobre los estándares JAMMA y MVS.
+📺 Casi Tutoriales y Demostraciones
 
-    
+Si quieres ver el proyecto Neo Blue funcionando en una placa Neo Geo MVS real o necesitas una guía paso a paso sobre el montaje, visita mi canal de YouTube:
+
+👉 Canal Oficial: Tipitochen en YouTube
+
+y si señores ... tenia que ser .. Nikita! 
     
