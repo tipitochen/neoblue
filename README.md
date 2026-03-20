@@ -74,6 +74,16 @@ Este proyecto no habría sido posible sin el increíble trabajo de la comunidad 
     Ricardo Quesada: Creador de la librería Bluepad32. Gracias por desarrollar el stack de Bluetooth que permite que mandos como el DualSense funcionen con tanta fluidez en el ESP32. Su trabajo es la base que permite que NEO BLUE cobre vida.
 
     A todos los desarrolladores de la comunidad de retro-gaming y arcade modding que comparten sus conocimientos sobre los estándares JAMMA y MVS.
+    
+📸 Galería del Proyecto
+
+| | |
+|:---:|:---:|
+| ![Sistema en acción](img/1.jpg) <br> **Setup Completo:** Consola MVS custom con mando DualSense. | ![Pantalla de Inicio](img/2.jpg) <br> **Bienvenida:** Interfaz LCD personalizada con el nombre **NIKITA**. |
+| ![Vista Superior](img/3.jpg) <br> **Estética MVS:** Diseño frontal con colores clásicos de SNK. | ![Slot de Cartuchos](img/4.jpg) <br> **Detalle del Slot:** Acabado de la carcasa superior. |
+| ![Perfil de la Consola](img/5.jpg) <br> **Diseño Compacto:** Vista lateral mostrando el interruptor. | ![Estado del Jugador](img/6.jpg) <br> **Conectividad:** Confirmación de **PLAYER 1 CONECTADO**. |
+
+---
 📺 Casi Tutoriales y Demostraciones
 
 Si quieres ver el proyecto Neo Blue funcionando en una placa Neo Geo MVS real o necesitas una guía paso a paso sobre el montaje, visita mi canal de YouTube:
