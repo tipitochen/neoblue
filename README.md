@@ -51,6 +51,9 @@ Para replicar el proyecto NEO BLUE con soporte para dos jugadores y visualizaci�
 5. Periféricos (Mandos)
 
     1 o 2 Mandos Sony DualSense (PS5): Compatibles mediante la librería Bluepad32 integrada en el código.
-   
-    
+
+Diagrama de conexiones :
+<p align="center">
+  <img src="Diagrama.png" width="600" alt="Diagrama Neo Blue">
+</p>
     
