@@ -56,4 +56,24 @@ Diagrama de conexiones :
 <p align="center">
   <img src="Diagrama.png" width="600" alt="Diagrama Neo Blue">
 </p>
+
+💻 Software y Librerías Requeridas
+
+Para compilar este proyecto en el IDE de Arduino, asegúrate de tener instaladas las siguientes dependencias:
+
+    Bluepad32: La librería principal para la gestión de los mandos DualSense/PS5 vía Bluetooth.
+
+    LiquidCrystal_I2C: Para el manejo de la pantalla LCD 20x4 (Dirección 0x3F).
+
+    Wire.h: Librería estándar para la comunicación I2C entre el ESP32 y el display.
+
+🤝 Agradecimientos / Credits
+
+Este proyecto no habría sido posible sin el increíble trabajo de la comunidad de código abierto. Un agradecimiento especial a:
+
+    Ricardo Quesada: Creador de la librería Bluepad32. Gracias por desarrollar el stack de Bluetooth que permite que mandos como el DualSense funcionen con tanta fluidez en el ESP32. Su trabajo es la base que permite que NEO BLUE cobre vida.
+
+    A todos los desarrolladores de la comunidad de retro-gaming y arcade modding que comparten sus conocimientos sobre los estándares JAMMA y MVS.
+
+    
     
